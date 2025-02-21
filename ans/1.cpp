@@ -1,6 +1,6 @@
 /**
  * @brief 1 - Two Sum
- * @link https://leetcode.cn/problems/two-sum
+ * @link https://leetcode.cn/problems/two-sum/
  * @author !EEExp3rt
  * @date 2025-02-19
  * @note 直接暴力求解

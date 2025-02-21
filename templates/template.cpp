@@ -1,4 +1,7 @@
 /**
  * @brief [Number] - [Title Here]
- * @details
+ * @link [Link Here]
+ * @author !EEExp3rt
+ * @date [Date Here]
+ * @note [Note Here]
  */
