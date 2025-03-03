@@ -1,7 +1,10 @@
 #!/usr/bin/bash
 
-# 读取命令行参数作为变量num
 num=$1
+if [ -z $num ]; then
+    echo "Please input the number of the problem."
+    exit 1
+fi
 if [ -f ans/$num.cpp ]; then
     echo "File already exists."
 else
