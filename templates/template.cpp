@@ -5,3 +5,7 @@
  * @date [Date Here]
  * @note [Note Here]
  */
+
+#include <bits/stdc++.h>
+using namespace std;
+
