@@ -39,6 +39,7 @@
 - [438 - 找到字符串中所有字母异位词](ans/438.cpp)[^1]
 - [560 - 和为K的最长子数组](ans/560.cpp)[^1]
 - [2353 - 设计事物评分系统](ans/2353.cpp)[^2]
+- [3340 - 检查平衡字符串](ans/3340.cpp)[^2]
 
 [^1]: [LeetCode热题100](https://leetcode.cn/studyplan/top-100-liked)
 [^2]: LeetCode每日一题
